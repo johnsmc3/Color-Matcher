@@ -1,7 +1,9 @@
 # Color-Matcher
 Click the correct button for the color. If wrong it will flash red and beep at you.
 My game is a simple reaction game challenge. The player is given a color and they need to click the correct button that corresponds with the color given. The objective is to click the correct button of the color given
-Rules:
+
+
+<br>Rules:
 At the start of the game the device will generate either the color green or blue
 The device will display the sequence by illuminating either the green or blue LED
 The player must pay close attention to what color is displayed and to what button the color corresponds with and to what button they actually press
